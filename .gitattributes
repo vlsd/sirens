@@ -1,0 +1,4 @@
+sirens.ipynb filter=lfs diff=lfs merge=lfs -crlf
+sirens1.mp3 filter=lfs diff=lfs merge=lfs -crlf
+sirens2.mp3 filter=lfs diff=lfs merge=lfs -crlf
+sirens3.mp3 filter=lfs diff=lfs merge=lfs -crlf
